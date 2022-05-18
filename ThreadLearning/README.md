@@ -1,0 +1,3 @@
+1.@Resource(),默认是按照byName注入，如果指定name,只会根据name进行注入，如果没有指定name注入，先根据name查找bean,找不到在按byType注入
+@Autowired只能根据byType注入，如果向搭配byName注入，可以搭配@Quilifer注解一起使用
+这里向容器中注入了一个单例的ConcurrentHashMap对象

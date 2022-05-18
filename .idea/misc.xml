@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/LambdaLearning/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadLearning/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadAsync/pom.xml" />
       </list>
     </option>
   </component>

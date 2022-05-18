@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_SE_Learning.iml" filepath="$PROJECT_DIR$/.idea/Java_SE_Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaLearning/LambdaLearning.iml" filepath="$PROJECT_DIR$/LambdaLearning/LambdaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadAsync/ThreadAsync.iml" filepath="$PROJECT_DIR$/ThreadAsync/ThreadAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLearning/ThreadLearning.iml" filepath="$PROJECT_DIR$/ThreadLearning/ThreadLearning.iml" />
     </modules>
   </component>
 </project>
